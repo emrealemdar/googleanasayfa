@@ -1,0 +1,183 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*************baslik_kismi******************/
+
+.main-block {
+
+    width: 210px;
+    height: 60px;
+   
+    display: inline-block;
+    padding-left: 1150px;
+    font-family: Arial;
+    font-size: 13px;
+}
+
+.gmail {
+    
+    width: 48.95px;
+    height: 24px;
+    float: left;
+    padding-right: 15px;
+    
+    
+}
+
+.gorseller {
+    width: 67.75px;
+    height: 24px;
+    float: left;
+    padding-right: 15px;
+   
+}
+
+.simge {
+    width: 16px;
+    height: 16px;
+    float: left;
+    padding-right: 30px;
+    
+}
+
+.profilepic {
+    width: 16px;
+    height: 16px;
+   float: left;
+  
+}
+
+
+.clearboth {clear: both;}
+
+/****************logo_kismi*****************/
+
+.googlelogo {
+    width: 1350px;
+    height: 80px;
+    
+    
+
+}
+
+/***************arama_cubugu*******************/
+
+.aramacubugu {
+    width: 1350px;
+    height: 50px;
+    
+    margin-top: 20px;
+    
+}
+
+.button {
+    width: 480px;
+    height: 35px;
+    border-style: none;
+    border-radius: 20px;
+    
+    text-shadow: none;
+   
+    
+   
+}
+
+.ara {
+    margin-top: 15px;
+    font-family:Arial;
+    font-size: 14px;
+    color: #5f6368;
+    border-width: 1px;
+    border-color: #f2f2f2 ;
+    height: 36px;
+    
+}
+
+.voicelogo {
+
+width: 30px;
+height: 30px;
+padding-right: 0px;
+
+
+}
+
+.teksatir {
+    width: 1350px;
+    height: 50px;
+    margin-top: 65px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    
+}
+.turkey {
+    width: 1320px;
+    height: 30px;
+    margin-top: 150px;
+    padding-left: 30px;
+    font-family: Arial;
+    color: grey;
+    
+}
+
+/************************footer******************/
+
+.footer {
+    width: 1350px;
+    height: 50px;
+    background-color:#f2f2f2 ;
+    display: inline-block;
+    
+    font-family:Arial;
+    color: grey;
+
+  
+}
+.hakkinda {
+width: 2px;
+height: 2px;
+padding-left: 35px;
+margin-top: 15px;
+float: left;
+}
+
+.reklam {
+    width: 48.95px;
+    height: 24px;
+    float: left;
+    padding-left: 100px;
+    margin-top: 15px;
+}
+
+.isletme {
+    width: 2px;
+    height: 2px;
+    padding-left: 225px;
+    margin-top: 15px;
+
+}
+.arama {
+    width: 20px;
+    height: 20px;
+   
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+
+
+.karbon {
+    padding-right: 225px;
+    margin-bottom: 30px;
+    text-align: center;}
+    
+    
+    
+
+
